@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abidhassan92
-- 👀 I’m interested in Codeing
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - - 🌱 I’m currently learning Python
 - - 🌱 I’m currently learning Tensorflow
